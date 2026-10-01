@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Bank Form Assistant",
+  "description": "Interactive multilingual bank counter kiosk assistant for elderly and low-literacy users to automatically fill real bank forms using ID documents and voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
